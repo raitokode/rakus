@@ -1,0 +1,124 @@
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.ScreenSketch_8wekyb3d8bbwe.msixbundle' が存在しないため検出できませ
+ん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.ScreenSketch_8wekyb3d8bbwe ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.msixbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsCamera_8wekyb3d8bbwe.appxbundle' が存在しないため検出できませ
+ん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsCamera_8wekyb3d8bbw ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsCalculator_8wekyb3d8bbwe.appxbundle' が存在しないため検出でき
+ません。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsCalculator_8wekyb3d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.Windows.Photos_8wekyb3d8bbwe.appxbundle' が存在しないため検出できま
+せん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.Windows.Photos_8wekyb3d8bb ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.Paint_8wekyb3d8bbwe.msixbundle' が存在しないため検出できません。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.Paint_8wekyb3d8bbwe.msixbu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.msixbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsNotepad_8wekyb3d8bbwe.msixbundle' が存在しないため検出できま
+せん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsNotepad_8wekyb3d8bb ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.msixbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe.appxbundle' が存在しないため検出
+できません。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsSoundRecorder_8weky ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.ScreenSketch_8wekyb3d8bbwe.msixbundle' が存在しないため検出できませ
+ん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.ScreenSketch_8wekyb3d8bbwe ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.msixbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsCamera_8wekyb3d8bbwe.appxbundle' が存在しないため検出できませ
+ん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsCamera_8wekyb3d8bbw ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsCalculator_8wekyb3d8bbwe.appxbundle' が存在しないため検出でき
+ません。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsCalculator_8wekyb3d ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.Windows.Photos_8wekyb3d8bbwe.appxbundle' が存在しないため検出できま
+せん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.Windows.Photos_8wekyb3d8bb ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.Paint_8wekyb3d8bbwe.msixbundle' が存在しないため検出できません。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.Paint_8wekyb3d8bbwe.msixbu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.msixbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsNotepad_8wekyb3d8bbwe.msixbundle' が存在しないため検出できま
+せん。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsNotepad_8wekyb3d8bb ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.msixbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
+Add-AppxPackage : パス 'C:\temp\amd64fre\Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe.appxbundle' が存在しないため検出
+できません。
+発生場所 行:1 文字:1
++ Add-AppxPackage C:\temp\amd64fre\Microsoft.WindowsSoundRecorder_8weky ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\temp\amd64fr...bbwe.appxbundle:String) [Add-AppxPackage], ItemNotFou 
+   ndException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageCommand
+ 
